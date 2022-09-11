@@ -38,11 +38,11 @@
               <li class="nav-item me-5">
                 <a class="nav-link"
                    aria-current="page"
-                   href="#">Home</a>
+                   href="index.php">Home</a>
               </li>
               <li class="nav-item me-5">
                 <a class="nav-link"
-                   href="#">Bicycle </a>
+                   href="#bicycle">Bicycle </a>
               </li>
               <li class="nav-item me-5">
                 <a class="nav-link"
